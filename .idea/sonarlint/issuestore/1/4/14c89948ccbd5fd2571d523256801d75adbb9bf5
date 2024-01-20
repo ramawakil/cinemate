@@ -1,0 +1,5 @@
+
+ƒtypescript:S6582%"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(Âü½şÿÿÿÿ8Óˆš¹Ò1
+gtypescript:S3358I"DExtract this nested ternary operation into an independent statement.(ˆÿ«Ê8Ôˆš¹Ò1
+Ftypescript:S6479U"Do not use Array index in keys(Ê¹¹óşÿÿÿÿ8Õˆš¹Ò1
+Œtypescript:S6606Y"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(ÍÀ¥w8õ ÆºÒ1

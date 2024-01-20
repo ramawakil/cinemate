@@ -1,0 +1,5 @@
+
+Vtypescript:S6571
+"3'any' overrides all other types in this union type.(ãÆÐü8ÙˆÕ¹Ò1
+Ftypescript:S6479*"Do not use Array index in keys(Ê¹¹óþÿÿÿÿ8‘ûÒ¹Ò1
+Œtypescript:S66060"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(ÍÀ¥w8ñÅ°ºÒ1

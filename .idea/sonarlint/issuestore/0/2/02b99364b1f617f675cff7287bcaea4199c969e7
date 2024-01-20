@@ -1,0 +1,4 @@
+
+btypescript:S6754":useState call is not destructured into value + setter pair(´íê—şÿÿÿÿ8ÊÜÃºÒ1
+ƒtypescript:S6582)"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(°–Ç‚ıÿÿÿÿ8ÊÜÃºÒ1
+’typescript:S6606S"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(‚€¶¼ÿÿÿÿÿ8¾«ÅºÒ1

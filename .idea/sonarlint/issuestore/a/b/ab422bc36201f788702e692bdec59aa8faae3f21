@@ -1,0 +1,4 @@
+
+~typescript:S6582"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ö óê8çê¸¹Ò1
+Ftypescript:S6479"Do not use Array index in keys(Ê¹¹óþÿÿÿÿ8èê¸¹Ò1
+’typescript:S6606!"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(Á¨æîúÿÿÿÿ8±ù²ºÒ1

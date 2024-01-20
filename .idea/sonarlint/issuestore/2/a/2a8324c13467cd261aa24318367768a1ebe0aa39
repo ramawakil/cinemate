@@ -1,0 +1,7 @@
+
+btypescript:S6754":useState call is not destructured into value + setter pair(´íê—þÿÿÿÿ8Ðý¾ºÒ1
+btypescript:S1854":Remove this useless assignment to variable "setFavourite".(´íê—þÿÿÿÿ8Ñý¾ºÒ1
+ƒtypescript:S65824"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(°–Ç‚ýÿÿÿÿ8Ñý¾ºÒ1
+~typescript:S6582<"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(ÚÇ¤—8Ñý¾ºÒ1
+typescript:S6606Z"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(Öù¡þ8ë„ÀºÒ1
+Btypescript:S6479…"Do not use Array index in keys(Çç€8Ñý¾ºÒ1
